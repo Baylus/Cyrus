@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CA8E3F1D1FF7318B0079C153 /* chinook.db in Resources */ = {isa = PBXBuildFile; fileRef = CA8E3F1C1FF7318B0079C153 /* chinook.db */; };
+		CA8E3F1D1FF7318B0079C153 /* test.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = CA8E3F1C1FF7318B0079C153 /* test.sqlite */; };
 		CA8E3F1F1FF754CB0079C153 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8E3F1E1FF754CB0079C153 /* Utilities.swift */; };
 		CAD2A2AC1FEEB51B00563372 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD2A2AB1FEEB51B00563372 /* AppDelegate.swift */; };
 		CAD2A2AE1FEEB51B00563372 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD2A2AD1FEEB51B00563372 /* ViewController.swift */; };
@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CA8E3F1C1FF7318B0079C153 /* chinook.db */ = {isa = PBXFileReference; lastKnownFileType = file; name = chinook.db; path = ../../../../../../../../Desktop/chinook.db; sourceTree = "<group>"; };
+		CA8E3F1C1FF7318B0079C153 /* test.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.sqlite; path = ../../Databases/test.sqlite; sourceTree = "<group>"; };
 		CA8E3F1E1FF754CB0079C153 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		CAD2A2A81FEEB51B00563372 /* Cyrus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cyrus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAD2A2AB1FEEB51B00563372 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 				CAD2A2B21FEEB51B00563372 /* Assets.xcassets */,
 				CAD2A2B41FEEB51B00563372 /* LaunchScreen.storyboard */,
 				CAD2A2B71FEEB51B00563372 /* Info.plist */,
-				CA8E3F1C1FF7318B0079C153 /* chinook.db */,
+				CA8E3F1C1FF7318B0079C153 /* test.sqlite */,
 			);
 			path = Cyrus;
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAD2A2B61FEEB51B00563372 /* LaunchScreen.storyboard in Resources */,
-				CA8E3F1D1FF7318B0079C153 /* chinook.db in Resources */,
+				CA8E3F1D1FF7318B0079C153 /* test.sqlite in Resources */,
 				CAD2A2B31FEEB51B00563372 /* Assets.xcassets in Resources */,
 				CAD2A2B11FEEB51B00563372 /* Main.storyboard in Resources */,
 			);
