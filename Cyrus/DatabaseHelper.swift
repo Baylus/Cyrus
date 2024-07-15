@@ -10,8 +10,8 @@ import Foundation
 import SQLite3
 
 class DatabaseHelper {
-    static let databaseName = "chinook"
-    static let databaseExtension = "db"
+    static let databaseName = "test"
+    static let databaseExtension = "sqlite"
     static var documentDirectory: URL?
     static var database: OpaquePointer?
     static private var isReady = false
